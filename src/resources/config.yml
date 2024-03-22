@@ -1,0 +1,25 @@
+######################################
+#         Collections Plugin         #
+#       Made for EldenSkyblock       #
+# By https://github.com/SpecifiesDev #
+######################################
+
+items:
+  obsidian:
+    itemid: "OBSIDIAN"
+    milestones:
+      1:
+        amount: 10
+        action: "give {player} stone 1"
+      2:
+        amount: 20
+        action: "give {player} stone 2"
+  cobblestone:
+    itemid: "COBBLESTONE"
+    milestones:
+      1:
+        amount: 10
+        action: "give {player} stone 1"
+      2:
+        amount: 20
+        action: "give {player} stone 2"

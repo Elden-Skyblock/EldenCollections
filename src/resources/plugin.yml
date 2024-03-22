@@ -1,0 +1,9 @@
+name: EldenCollections
+main: me.csdad.EldenCollections.Main
+version: 1.0 SNAPSHOT
+author: csdad
+description: A lightweight plugin that allows server owners to define collections, and keep track of them.
+
+# Path: src/main/java/me/csdad/EldenCollections/Main.java
+
+# commands
